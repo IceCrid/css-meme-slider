@@ -1,1 +1,1 @@
-# CSS Meme Slider 
+# CSS Meme Slider
